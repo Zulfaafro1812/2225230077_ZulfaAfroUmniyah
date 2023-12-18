@@ -3,7 +3,7 @@
 
 @section('isihalaman')
     <h3><center>Data Peminjaman Buku</center><h3>
-    <h3><center>Perpustakaan Universitas Sultan Ageng Tirtayasa</center></h3>
+    <h3><center>Perpustakaan Pendidikan Matematika UNTIRTA</center></h3>
 
     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalPinjamTambah"> 
         Tambah Data Peminjaman 

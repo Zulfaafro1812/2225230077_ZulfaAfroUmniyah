@@ -11,22 +11,17 @@
 		lembaga induknya pada khususnya dan sivitas akademika pada umumnya. Kelima tugas tersebut dilaksanakan dengan 
 		tata cara administrasi dan organisasi yang berlaku bagi penyelenggaraan sebuah perpustakaan.
     <p>
-    <h4>Perpustakaan UNTIRTA</h4>
-        UPT Perpustakaan Universitas Sultan Ageng Tirtayasa [UNTIRTA] sebagai salah satu perpustakaan perguruan tinggi swasta di Indonesia 
+    <h4>Perpustakaan Pendidikan Matematika UNTIRTA</h4>
+        UPT Perpustakaan Pendidikan Matematika UNTIRTA sebagai salah satu perpustakaan perguruan tinggi di Indonesia 
 		selama ini juga telah melaksanakan kelima tugas tersebut dalam kegiatan di perpustakaannya untuk mendukung 
 		terwujudnya Tri Dharma Perguruan Tinggi. Berbagai upaya dilakukan oleh Perpustakaan Universitas sendiri berada 
-		ditempat yang cukup representative, mudah diakses baik oleh mahasiswa ataupun kalangan civitas akademika UNTIRTA. 
+		ditempat yang cukup representative, mudah diakses baik oleh mahasiswa ataupun kalangan civitas akademika Pendidikan Matematika UNTIRTA. 
 		Disamping itu juga memiliki ribuan koleksi mulai dari Buku, Jurnal, Majalah, Dokumen Penelitian dan berbagai sumber 
-		referensi lain guna menunjang proses pembelajaran di UNTIRTA.
+		referensi lain guna menunjang proses pembelajaran di Pendidikan Matematika UNTIRTA.
 
-    <p>
-        Perhatian pimpinan Yayasan dan Universitas dalam pengembangan dan peningkatan layanan Perpustakaan semakin 
-		membaik 5 tahun belakangan ini, hal ini ditunjukan dengan koleksi bahan perpustakaan yang meningkat cukup baik 
-		ditiap tahunnya yaitu dengan rata-rata 5,18 % pertahun. UPT Perpustakaan Universitas Sultan Ageng Tirtayasa sampai 10 Oktober 2018 
-		memiliki 24.421 Judul koleksi dengan jumlah total 38.668 eksemplar
-    <p>
     <h4>Perpustakaan Menurut UU NO 43. THN. 2007</h4>
     Perpustakaan adalah institusi yang mengumpulkan pengetahuan tercetak dan terekam, mengelolanya dengan cara khusus guna
     memenuhi kebutuhan intelektualitas para penggunanya melalui berbagai cara interaksi pengetahuan.
+    Pokonya Perpustakaan Pendidikan Matematika Mantap betul (MANTUL)
 
 @endsection
