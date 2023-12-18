@@ -1,0 +1,2 @@
+# 2225230077_ZulfaAfroUmniyah
+Bismillahirrahmanirrahiim uas alproku selesai
